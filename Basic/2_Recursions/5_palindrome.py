@@ -10,8 +10,8 @@ class palindrome:
 
 sample = "madam"
 obj = palindrome(sample)
-answer = obj.check_palindrome()
-print(answer)
+ans = obj.check_palindrome()
+print(ans)
 
 # Time - O(N)
 # Space - O(N )
