@@ -14,7 +14,7 @@ ans = obj.check_palindrome()
 print(ans)
 
 # Time - O(N)
-# Space - O(N)
+# Space - O(N
 
 
 
