@@ -18,7 +18,7 @@ print(ans)
 
 
 # Time O(N)
-# Space O(N)
+# Space O(N
 
 
 
