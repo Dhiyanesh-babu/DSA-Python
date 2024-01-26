@@ -10,11 +10,11 @@ class palindrome:
 
 sample = "madam"
 obj = palindrome(sample)
-ans = obj.check_palindrome()
-print(ans)
+answer = obj.check_palindrome()
+print(answer)
 
 # Time - O(N)
-# Space - O(N
+# Space - O(N )
 
 
 
