@@ -1,7 +1,7 @@
 class DigitsSum:
-    def __init__(self,data) -> None:
+    def __init__(self,data: int) -> None:
         self.num = data
-    def calculate_sum(self):
+    def calculate_sum(self) -> int:
         if self.num<10:
             return self.num
         return DigitsSum(self.num//10).calculate_sum() + self.num%10
