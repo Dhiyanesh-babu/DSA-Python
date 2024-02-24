@@ -17,7 +17,15 @@ print(ans)
 # Space : O(N)
 
 
+class fact:
+    def __init__(self,data) -> None:
+        self.data = data
+    def calculate_fact(self):
+        if self.num == 1:
+            return 1
+        return self.num * fact(self.num-1).calculate_fact()
 
+    
 
 
 
