@@ -1,6 +1,6 @@
 import time
 
-'''
+
 t1=time.time()
 class fibonaacci:
     def __init__(self,data) -> None:
@@ -22,7 +22,7 @@ print(ans,t2-t1)
 # Time O(2^N)
 # Space O(2^N)
 
-'''
+#holaa
 
 
 
@@ -54,3 +54,4 @@ ans = obj.get_fibonacci()
 t2=time.time()
 
 print(ans,t2-t1)
+
