@@ -12,4 +12,4 @@ class n_to_1:
 sample = 5
 obj = n_to_1(sample)
 obj.show()
-## hi
+## hi hi
