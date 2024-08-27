@@ -14,7 +14,7 @@ class MaxPieces:
 sample = 23
 a = 12
 b = 9 
-c = 11
+c = 11 
 obj = MaxPieces(sample,a,b,c)
 ans = obj.calculate_max_pieces()
 print(ans)

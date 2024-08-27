@@ -1,0 +1,9 @@
+Recursion
+
+1. Always use tail recursive(no need to return to parent call) - basic.recursion.4
+
+Sorting
+
+1. Stability in sorting - if two values are same wrt to sorting variable, it should be in input order
+   stable - Bubble sort,  Insertion sort, Merge sort
+   unstable - Selection sort, Quick sort, heap sort

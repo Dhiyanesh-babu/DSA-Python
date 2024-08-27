@@ -48,4 +48,4 @@ ans =  obj.find_factorial()
 print(ans)
 
 # Time - O(N)
-# Space - O()
+# Space - O(1)
