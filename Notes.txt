@@ -10,5 +10,5 @@ Sorting
 2. Bubble sort - Theta (n^2), 
 3. Selection sort - Theta (n^2), basic idea of heap sort
 4. Insertion sort - Worst case - Big(n^2), Best case - Big(n^2), Tim sort (python) - Insertion + Merge
- 
+5. Merge sort - Divide and conquer -  
 
