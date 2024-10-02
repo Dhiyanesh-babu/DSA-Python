@@ -21,4 +21,6 @@ x = 300
 obj = binary_search(sample,x)
 ans = obj.find()
 print(ans)
-# Time O(N)
+# Time O(LogN)
+
+
